@@ -15,3 +15,8 @@ Types of Decision Trees:
 1. **Binary Decision Tree**: Every node represents a decision, outcome is one of the two options. In case of Binary classification, each leaf of the tree represents one of the class.
 2. **Multiway Decision Tree**: Every decision node results in more than two outcomes. 
 
+
+### Regression Tree:
+There are some cases where a linear regression model cannot be used to make predictions, such as when you want to divide the data set into multiple subsets because each subset has an independent trend corresponding to it. There, you use a decision tree model to make predictions because a tree regression model has the capability of splitting the data into multiple sets and assigning a linear regression model to each set independently.
+
+## Algorithms For Decision Tree Construction
